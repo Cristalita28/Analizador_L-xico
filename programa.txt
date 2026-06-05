@@ -1,0 +1,6 @@
+int x = 10;
+float resultado = 3.14;
+if (x > 5) {
+    return resultado;
+}
+ <=>
